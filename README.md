@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
-<h1 align="center">Hi ??, I'm Charles Mwangi</h1>
+<h1 align="center">Hi, I'm Charles Mwangi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/chyna" target="blank"><img src="https://img.shields.io/twitter/follow/chyna?logo=twitter&style=for-the-badge" alt="chyna" /></a> </p>
 
-- ?? I’m currently learning **django,node.js**
+- ?? I’m currently learning **flutter,node.js**
 
 - ?? How to reach me **charleschainamwangi@gmail.com**
 
