@@ -15,7 +15,7 @@
 
 - ?? How to reach me **charleschainamwangi@gmail.com**
 
-- ? Fun fact **i think i'm funny**
+- ? Fun fact **I love cooking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
