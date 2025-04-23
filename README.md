@@ -1,34 +1,74 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=F7B42C&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Charles+Mwangi+!;Welcome+to+my+GitHub+profile+%F0%9F%94%A5;Tech+%7C+Code+%7C+Creativity" />
+</h1>
 
-<h1 align="center">Hi, I'm Charles Mwangi</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charleschyna&label=Profile%20views&color=0e75b6&style=flat" alt="charleschyna" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charleschyna" alt="charleschyna" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/chyna" target="blank"><img src="https://img.shields.io/twitter/follow/chyna?logo=twitter&style=for-the-badge" alt="chyna" /></a> </p>
-
-- ?? I’m currently learning **flutter,node.js**
-
-- ?? How to reach me **charleschainamwangi@gmail.com**
-
-- ? Fun fact **I love cooking**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chyna" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles" height="30" width="40" /></a>
-<a href="https://fb.com/charles chyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charles chyna" height="30" width="40" /></a>
-<a href="https://instagram.com/charles chyna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charles chyna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lyric graphics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lyric graphics" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charleschyna&show_icons=true&locale=en" alt="charleschyna" /></p>
+## 🚀 About Me
 
-)
+- 💻 I'm a 3rd-year Computer Technology student at JKUAT  
+- 🛠️ Working on: **Smart Nyuki – a smart beekeeping IoT platform**  
+- 🌍 Passionate about tech, AI, IoT, and solving real-world problems  
+- 🌱 Currently learning: React, Supabase, and real-time systems  
+- 🧠 AI trainer | Open Source Contributor | Front-end lover  
+
+---
+
+## 🧰 My Tech Stack
+
+<div align="center">
+  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-05122A?style=flat&logo=supabase)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-05122A?style=flat&logo=influxdb)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="47%" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+🚀 [Smart Nyuki](https://github.com/your-username/smart-nyuki)  
+> A smart beekeeping platform that uses IoT and AI to help farmers monitor hive health and honey production.
+
+📊 [Student Performance Tracker](https://github.com/your-username/student-performance)  
+> A platform for tracking academic performance in high schools, built with React & Supabase.
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/charles-mwangi-83a54524b/"><img src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=brightgreen" alt="profile views" />
+</p>
