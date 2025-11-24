@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 💻 I'm a 3rd-year Computer Technology student at JKUAT  
+- 💻 I'm a final year Computer Technology student at JKUAT  
 - 🛠️ Working on: **Smart Nyuki – a smart beekeeping IoT platform**  
 - 🌍 Passionate about tech, AI, IoT, and solving real-world problems  
 - 🌱 Currently learning: React, Supabase, and real-time systems  
