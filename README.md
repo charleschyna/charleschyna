@@ -11,7 +11,6 @@
 ## ⚡ About Me
 
 ```diff
-+ Final Year Computer Technology Student @ JKUAT
 + Building Smart Nyuki 🐝 (IoT + AI Beekeeping System)
 + Passionate about Real-Time Systems & Smart Agriculture
 + AI Trainer | Open Source Contributor
